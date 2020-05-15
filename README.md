@@ -1,0 +1,5 @@
+# excelzip
+使用python处理excel。使用pyqt生成gui
+
+该文件实现了在多个excel表中，查找到指定列中包含同一个关键字的行并汇总到一个excel中
+start运行
